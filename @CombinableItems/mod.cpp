@@ -1,0 +1,10 @@
+name="CombinableItems";
+tooltip="CombinableItems";
+overview="Combinable repair items + bandages + petrol lighter.";
+picture="CombinableItems/data/picture.paa";
+logoSmall="CombinableItems/data/logoSmall.paa";
+logo="CombinableItems/data/logo.paa";
+logoOver="CombinableItems/data/logoOver.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637996858;
+author="moldypenguins";
+version="1.1";
