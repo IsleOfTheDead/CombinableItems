@@ -21,7 +21,7 @@ class CfgMods
     picture="CombinableItems/data/picture.paa";
     logoSmall="CombinableItems/data/logoSmall.paa";
     logo="CombinableItems/data/logo.paa";
-    logoOver="CombinableItems/data/logoOver.paa";
+    logoOver="CombinableItems/data/logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637996858";
     credits="moldypenguins";
     author="moldypenguins";
