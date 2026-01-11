@@ -18,10 +18,10 @@ class CfgMods
     hidePicture=0;
     extra=0;
     name="CombinableItems";
-    picture="CombinableItems/data/picture.paa";
-    logoSmall="CombinableItems/data/logoSmall.paa";
-    logo="CombinableItems/data/logo.paa";
-    logoOver="CombinableItems/data/logo.paa";
+    picture="CombinableItems\data\picture.paa";
+    logoSmall="CombinableItems\data\logoSmall.paa";
+    logo="CombinableItems\data\logo.paa";
+    logoOver="CombinableItems\data\logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637996858";
     credits="moldypenguins";
     author="moldypenguins";
@@ -34,12 +34,12 @@ class CfgMods
       class engineScriptModule
       {
         value="";
-        files[]={ "CombinableItems/scripts/1_core" };
+        files[]={ "CombinableItems\scripts\1_core" };
       };
       class worldScriptModule
       {
         value="";
-        files[]={ "CombinableItems/scripts/4_world" };
+        files[]={ "CombinableItems\scripts\4_world" };
       };
     }
   };
