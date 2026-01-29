@@ -6,7 +6,6 @@
 - Electronic Repair Kit
 - Epoxy Putty
 - Leather Sewing Kit
-- Petrol Lighter
 - Sewing Kit
 - Tire Repair Kit
 - Weapon Cleaning Kit
